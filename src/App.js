@@ -10,6 +10,7 @@ import Balances from './Balances';
 import BlockNumber from './BlockNumber';
 import Events from './Events';
 import Interactor from './Interactor';
+import LatestBlock from './LatestBlock';
 import Metadata from './Metadata';
 import NodeInfo from './NodeInfo';
 import TemplateModule from './TemplateModule';
@@ -58,6 +59,7 @@ function Main () {
           <Grid.Row stretched>
             <NodeInfo />
             <Metadata />
+            <LatestBlock />
             <BlockNumber />
             <BlockNumber finalized />
           </Grid.Row>
