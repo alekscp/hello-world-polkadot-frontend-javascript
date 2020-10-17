@@ -1,8 +1,0 @@
-!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
-!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
-!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
-!_TAG_PROGRAM_NAME	Exuberant Ctags	//
-!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
-!_TAG_PROGRAM_VERSION	5.8	//
-Manifest	precache-manifest.d6fd329f8cbc782db5f64b27ef2c2f1d.js	/^self.__precacheManifest = (self.__precacheManifest || []).concat([$/;"	c
-if	service-worker.js	/^  if (event.data && event.data.type === 'SKIP_WAITING') {$/;"	f
